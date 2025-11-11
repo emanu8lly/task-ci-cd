@@ -1,6 +1,7 @@
 # 🚀 Task CI/CD
 
-![CI/CD Pipeline Node.js](https://github.com/seu-usuario/task-ci-cd/actions/workflows/main.yml/badge.svg)
+
+[![CI/CD Pipeline Node.js](https://github.com/emanu8lly/task-ci-cd/actions/workflows/main.yml/badge.svg)](https://github.com/emanu8lly/task-ci-cd/actions/workflows/main.yml)
 
 Este repositório foi criado para a atividade de **Integração Contínua (CI)** e **Entrega Contínua (CD)** da disciplina de Entrega Contínua.  
 O objetivo é entender o funcionamento de pipelines automatizados utilizando **GitHub Actions**.
