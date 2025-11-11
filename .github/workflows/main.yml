@@ -1,0 +1,13 @@
+name: Simple CI
+
+on: [push]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Teste simples de build
+        run: echo "Pipeline funcionando!"
