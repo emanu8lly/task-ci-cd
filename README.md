@@ -40,5 +40,4 @@ Ao realizar um *push* para a branch `main` ou `develop`, o GitHub Actions:
 
 Se o badge estiver verde (**passing**), significa que tudo foi executado com sucesso 🎉
 
-Atualização para PR
 ---
