@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       serie:
-        description: Digite sua série favorita:
+        description: Digite sua série favorita
         type: string
 
 jobs:
