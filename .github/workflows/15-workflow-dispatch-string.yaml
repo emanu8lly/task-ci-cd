@@ -14,4 +14,4 @@ jobs:
       - name: Comentário
         run: |
           echo "Comentário WORKFLOW DISPATCH"
-          echo: "Minha série favorita: ${{inputs.serie}}!"
+          echo "Minha série favorita: ${{inputs.serie}}!"
