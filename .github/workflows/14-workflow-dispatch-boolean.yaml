@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
     inputs:
       resposta:
-      description: Esta foi a melhor matéria que você teve?
-      type: boolean
+        description: Esta foi a melhor matéria que você teve?
+        type: boolean
 
 jobs:
   on-workflow_dispatch:
